@@ -9,3 +9,5 @@ layout: default
 [deep learning project](writeups/271_project.pdf)
 
 [matrix factorization project](writeups/temporal-probabilistic-matrix.pdf)
+
+[convex optimization project](writeups/convex-final-report.pdf)

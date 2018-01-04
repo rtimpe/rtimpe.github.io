@@ -12,4 +12,6 @@ layout: default
 
 [convex optimization project](writeups/convex-final-report.pdf)
 
-[udergrad thesis on imitation learning](writeups/Thesis.pdf)
+[undergrad thesis on imitation learning](writeups/Thesis.pdf)
+
+[undergrad project on apprenticeship learning](writeups/apprenticeship-report.pdf)

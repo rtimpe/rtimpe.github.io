@@ -11,3 +11,5 @@ layout: default
 [matrix factorization project](writeups/temporal-probabilistic-matrix.pdf)
 
 [convex optimization project](writeups/convex-final-report.pdf)
+
+[udergrad thesis on imitation learning](writeups/Thesis.pdf)

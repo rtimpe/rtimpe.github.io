@@ -4,7 +4,7 @@ layout: default
 
 [personal github](https://github.com/rtimpe)
 
-[convolutional neural nets for chess](https://github.com/rtimpe/conv-chess)
+[universal style transfer](https://github.com/rtimpe/style-transfer/blob/master/style.ipynb)
 
 [deep learning project](writeups/271_project.pdf)
 
